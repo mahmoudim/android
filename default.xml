@@ -66,6 +66,5 @@
   <project path="prebuilts/vndk/v29" name="platform/prebuilts/vndk/v29" groups="pdk" clone-depth="1" remote="aosp" />
   
   
-  <include name="snippets/lineage.xml" />
-
+  
 </manifest>
